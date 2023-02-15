@@ -1,0 +1,5 @@
+CONF        = vim.fn.stdpath('config') .. '/'
+CORE        = CONF .. 'core/'
+OPTIONS     = CORE .. 'options/'
+PLUGINS     = CONF .. 'plugins/'
+THEMES      = PLUGINS .. '/themes/'
